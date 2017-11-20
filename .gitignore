@@ -3,6 +3,9 @@
 # dependencies
 /node_modules
 
+#Source Code
+/client_src
+
 # testing
 /coverage
 
