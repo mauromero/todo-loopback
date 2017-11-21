@@ -9,6 +9,9 @@
 # testing
 /coverage
 
+#Database connection
+/server/datasources.json
+
 # production
 /build
 
